@@ -1,6 +1,8 @@
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
+### **So this is edit made in my local repo**
+
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
@@ -15,4 +17,6 @@ But I can fork it
 
 **If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.**
 
-### Smth smth dark side...
+### Smth smth dark side...  
+
+Edited in vim with <3
